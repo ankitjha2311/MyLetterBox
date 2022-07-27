@@ -1,0 +1,23 @@
+{
+  "name": "waveportal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitjha2311/wavePortal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitjha2311/wavePortal/issues"
+  },
+  "homepage": "https://github.com/ankitjha2311/wavePortal#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
